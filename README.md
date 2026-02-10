@@ -91,4 +91,5 @@ pip install -r requirements.txt
 2. **Open Notebook:** Open `CIFAR_10_Praket.ipynb` in Google Colab or a local Jupyter environment.
 3. **Hardware Acceleration:** Ensure Runtime is set to **T4 GPU** for optimal performance.
 4. **Execution:** Run all cells to reproduce results and verify the saved model weights (`improved_model.pth`).
+"Note: Due to GitHub's file size limitations, the .pth model weights are stored locally but can be provided upon request for verification."
 ---
